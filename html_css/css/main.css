@@ -1,0 +1,20 @@
+@@import "";
+
+h1 {
+  font-size: 50;
+}
+
+div {
+  border: 5px dotted red;
+  width: 500px;
+  height: 500px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  /*line-height: 500px;
+  vertical-align: middle;*/
+}
+
+div.second {
+  border-color: orange;
+}

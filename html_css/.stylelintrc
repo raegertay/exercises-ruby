@@ -1,0 +1,7 @@
+{
+    "extends": "/home/raeger/.atom/packages/linter-stylelint/node_modules/stylelint-config-standard",
+    "rules": {
+        "comment-empty-line-before": null,
+        "comment-whitespace-inside": null
+    }
+}

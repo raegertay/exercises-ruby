@@ -1,0 +1,140 @@
+.navbar>.container {
+  justify-content: center;
+}
+
+.nav-item {
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 90%;
+}
+
+.banner {
+  background-image: url("https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/3046/assets/images/hero/hero-bg--home.jpg");
+  background-size: cover;
+  padding-top: 10%;
+}
+
+.banner-title {
+  font-size: 300%;
+  color: white;
+  letter-spacing: 2px;
+  font-family: "Merriweather",Georgia,serif;
+}
+
+.banner-text {
+  font-size: 120%;
+  color: white;
+  font-family: sans-serif;
+}
+
+.banner-buttons {
+  width: 260px;
+}
+
+.content-title {
+  margin-bottom: 3%;
+  font-family: "Merriweather",Georgia,serif;
+  font-size: 2.5rem;
+  line-height: 3.375rem;
+}
+
+.outcome {
+  margin-bottom: 3%;
+}
+
+.outcome-card-left {
+  height: 300px;
+}
+
+.outcome-card-left h5 {
+  color: #0090d9;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.outcome-card-left-value {
+  color: #0090d9;
+  font-weight: bold;
+  font-size: 2.5rem;
+  line-height: 2.75rem;
+  margin-bottom: 0;
+}
+
+.outcome-card-left-description {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.outcome-card-left-percentage {
+  font-size: 0.75rem;
+  color: grey;
+}
+
+.outcome-card-left a {
+  margin-top: 20px;
+}
+
+.outcome-card-right {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-size: 0.9rem;
+}
+
+.content-card-image {
+  width: 100%;
+  min-height: 200px;
+  background-size: cover;
+}
+
+.col-12[class^='content-card'] {
+  padding: 1% 0;
+}
+
+.content-card-left {
+  background-color: #de7c01;
+}
+
+.content-card-image {
+  margin-bottom: 4%;
+}
+
+.content-card-left .content-card-image {
+  background-image: url("https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/3046/assets/images/photos/student-coding-solo.jpg");
+}
+
+.content-card-mid {
+  background-color: #0090d9;
+}
+
+.content-card-mid .content-card-image {
+  background-image: url("https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/3046/assets/images/photos/students-in-lecture.jpg")
+}
+
+.content-card-right {
+  background-color: #00b298;
+}
+
+.content-card-right .content-card-image {
+  background-image: url("https://static1.squarespace.com/static/ta/522a22cbe4b04681b0bff826/3046/assets/images/photos/laptop.jpg")
+}
+
+.content-card-title {
+  color: white;
+  font-family: "Merriweather",Georgia,serif;
+  font-size: 130%;
+  font-weight: bold;
+}
+
+.content-card-description {
+  color: white;
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 90%;
+}
+
+.campus-location {
+  background-color: lightblue;
+  height: 300px;
+}
+
+.email-collection {
+  background-color: lightgrey;
+  height: 200px;
+}
